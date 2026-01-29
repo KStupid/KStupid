@@ -1,10 +1,32 @@
-<h1 align="center">Hi 👋, I'm karan</h1>
-<h3 align="center">just a piece of stupid.</h3>
+# KARANJITH KJ // TERMINAL
 
-<p align="left">
-</p>
+> Future Nostalgia: Building secure systems in a legacy world.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h6 align="right"> cool </h6>
+### SYSTEM_CONFIG
+- **IDENTITY:** Karanjith KJ
+- **CORE:** CSE Student / Cyber Security / Tool Dev
+
+---
+
+### BINARY_ROOT (./skills)
+- `python.py`
+- `linux_kernel.bin`
+- `cyber_security.sh`
+
+---
+
+### PROJECTS
+**MeanReaver** PDF text extraction and vocabulary analysis.
+[VIEW_SOURCE](https://github.com/KStupid/MeanReaver)
+
+**Subtitle MeanReaver** (Private) Advanced extraction and meaning retrieval for mobile media streams. Processing dynamic data in real-time.
+
+---
+
+### NETWORKING
+- [EMAIL](mailto:karanjith2006@gmail.com)
+- [GITHUB](https://github.com/KStupid)
+- [PWN.COLLEGE](https://pwn.college/hacker/97685)
+
+---
+:: (C) 1980-2026 // Don't Start Now if the connection is insecure ::
