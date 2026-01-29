@@ -23,7 +23,6 @@
 
 ### NETWORKING
 - [EMAIL](mailto:karanjith2006@gmail.com)
-- [GITHUB](https://github.com/KStupid)
 - [PWN.COLLEGE](https://pwn.college/hacker/97685)
 
 ---
