@@ -1,7 +1,5 @@
 # KARANJITH KJ // TERMINAL
 
-> Future Nostalgia: Building secure systems in a legacy world.
-
 ### SYSTEM_CONFIG
 - **IDENTITY:** Karanjith KJ
 - **CORE:** CSE Student / Cyber Security / Tool Dev
